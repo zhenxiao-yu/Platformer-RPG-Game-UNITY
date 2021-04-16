@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Walls
+  - Health
+  - Mine
+  - Speed
+  - Trampoline
+  - Gold
+  - Mine Refill
+  - Enemy Bullet
+  - Diamond
+  - Chest
+  - Freeze Bullet
+  - Bullet
+  - Shield
+  - Gun
+  - Lava
+  - Trap
+  - Magnet
+  - Coin Magnet Pickup
+  - Flying Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1262851793
+    locked: 0
